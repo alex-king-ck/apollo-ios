@@ -7,8 +7,8 @@ let package = Package(
     name: "Apollo-CK",
     products: [
     .library(
-      name: "Apollo",
-      targets: ["Apollo"]),
+      name: "Apollo-CK",
+      targets: ["Apollo-CK"]),
 //    .library(
 //      name: "ApolloCodegenLib",
 //      targets: ["ApolloCodegenLib"]),
@@ -29,7 +29,7 @@ let package = Package(
     ],
     targets: [
     .target(
-      name: "Apollo",
+      name: "Apollo-CK",
       dependencies: []),
 //    .target(
 //      name: "ApolloCodegenLib",
