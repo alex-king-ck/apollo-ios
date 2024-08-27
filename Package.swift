@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "Apollo",
+    name: "Apollo-CK",
     products: [
     .library(
       name: "Apollo",
